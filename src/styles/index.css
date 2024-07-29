@@ -16,3 +16,8 @@ code {
     monospace;
 }
 
+/* Map Container */
+.leaflet-container {
+  min-height: 500px;
+  width: 100%;
+}
